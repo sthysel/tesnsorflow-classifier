@@ -1,8 +1,8 @@
 # Old tensorflow API based classifier 
 
-Fork of Dat Tran's object_detect
+Object detection and classification, fork of Dat Tran's object_detect_app repo cleaned up and modernised.
+Used as baseline for current Keras based models.
 
-Object detection, classification 
 
 ## Install notes
 
