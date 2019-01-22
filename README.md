@@ -1,4 +1,6 @@
-# Guido's Peepers 
+# Old tensorflow API based classifier 
+
+Fork of Dat Tran's object_detect
 
 Object detection, classification 
 
